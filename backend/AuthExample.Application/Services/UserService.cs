@@ -36,10 +36,6 @@ namespace AuthExample.Application.Services
             };
 
             var validationResult = _validator.ValidateAll(fieldsToValidate);
-            //if (!validationResult.IsValid)
-            //{
-            //    return (false, validationResult.Error.GetError().Item2);
-            //}
 
             var existingUser = await _context.Users.FirstOrDefaultAsync(u => u.Username.Contains(username) || u.Email.Contains(email));
             if (existingUser != null)
@@ -259,7 +255,6 @@ namespace AuthExample.Application.Services
 
             return tokenHandler.WriteToken(token);
         }
-
         private RefreshTokenEntity GenerateRefreshToken(Guid userId)
         {
             var randomBytes = new byte[64];
@@ -278,7 +273,6 @@ namespace AuthExample.Application.Services
                 JwtId = Guid.NewGuid().ToString()
             };
         }
-
         private ClaimsPrincipal GetPrincipalFromExpiredToken(string token)
         {
             var jwtSettings = _configuration.GetSection("JwtSettings");

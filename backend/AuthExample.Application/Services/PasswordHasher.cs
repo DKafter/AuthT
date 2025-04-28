@@ -27,7 +27,6 @@ namespace AuthExample.Application.Services
             // Возвращаем хеш и соль в виде строк Base64
             return (hashedPassword, Convert.ToBase64String(salt));
         }
-
         public bool VerifyPassword(string password, string passwordHash, string salt)
         {
             // Преобразование соли из строки Base64 в массив байтов
