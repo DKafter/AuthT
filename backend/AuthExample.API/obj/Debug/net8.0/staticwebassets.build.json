@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Wvp7z76xHfkdD9rFznasx+2Q2yCSGF6PwtL4B0XQuAU=",
+  "Source": "AuthExample.API",
+  "BasePath": "_content/AuthExample.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

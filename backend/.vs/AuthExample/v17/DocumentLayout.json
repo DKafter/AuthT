@@ -1,0 +1,566 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36D355F3-AAF0-4118-B343-91930D64FAF6}|AuthExample.Database\\AuthExample.Database.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.database\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D355F3-AAF0-4118-B343-91930D64FAF6}|AuthExample.Database\\AuthExample.Database.csproj|solutionrelative:authexample.database\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D355F3-AAF0-4118-B343-91930D64FAF6}|AuthExample.Database\\AuthExample.Database.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.database\\entities\\refreshtokenentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D355F3-AAF0-4118-B343-91930D64FAF6}|AuthExample.Database\\AuthExample.Database.csproj|solutionrelative:authexample.database\\entities\\refreshtokenentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D355F3-AAF0-4118-B343-91930D64FAF6}|AuthExample.Database\\AuthExample.Database.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.database\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D355F3-AAF0-4118-B343-91930D64FAF6}|AuthExample.Database\\AuthExample.Database.csproj|solutionrelative:authexample.database\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D355F3-AAF0-4118-B343-91930D64FAF6}|AuthExample.Database\\AuthExample.Database.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.database\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D355F3-AAF0-4118-B343-91930D64FAF6}|AuthExample.Database\\AuthExample.Database.csproj|solutionrelative:authexample.database\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D355F3-AAF0-4118-B343-91930D64FAF6}|AuthExample.Database\\AuthExample.Database.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.database\\configurations\\refreshtokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D355F3-AAF0-4118-B343-91930D64FAF6}|AuthExample.Database\\AuthExample.Database.csproj|solutionrelative:authexample.database\\configurations\\refreshtokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.models\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|solutionrelative:authexample.models\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.models\\infastructure\\errors\\validationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|solutionrelative:authexample.models\\infastructure\\errors\\validationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.models\\infastructure\\errors\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|solutionrelative:authexample.models\\infastructure\\errors\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.models\\infastructure\\errors\\errorobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|solutionrelative:authexample.models\\infastructure\\errors\\errorobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.models\\infastructure\\errors\\errorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|solutionrelative:authexample.models\\infastructure\\errors\\errorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.models\\abstraction\\interfaces\\ivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|solutionrelative:authexample.models\\abstraction\\interfaces\\ivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.models\\abstraction\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|solutionrelative:authexample.models\\abstraction\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.models\\abstraction\\interfaces\\iuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|solutionrelative:authexample.models\\abstraction\\interfaces\\iuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.models\\abstraction\\interfaces\\iuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|solutionrelative:authexample.models\\abstraction\\interfaces\\iuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.models\\abstraction\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|solutionrelative:authexample.models\\abstraction\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.models\\abstraction\\interfaces\\ierrorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|solutionrelative:authexample.models\\abstraction\\interfaces\\ierrorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.models\\abstraction\\interfaces\\ierrorobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|solutionrelative:authexample.models\\abstraction\\interfaces\\ierrorobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.models\\abstraction\\enums\\userconstenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|solutionrelative:authexample.models\\abstraction\\enums\\userconstenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.models\\abstraction\\enums\\rolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|solutionrelative:authexample.models\\abstraction\\enums\\rolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.models\\abstraction\\enums\\errornamesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|solutionrelative:authexample.models\\abstraction\\enums\\errornamesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD80EB2A-0223-410C-80C2-683BF6549E46}|AuthExample.Application\\AuthExample.Application.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD80EB2A-0223-410C-80C2-683BF6549E46}|AuthExample.Application\\AuthExample.Application.csproj|solutionrelative:authexample.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD80EB2A-0223-410C-80C2-683BF6549E46}|AuthExample.Application\\AuthExample.Application.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.application\\data\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD80EB2A-0223-410C-80C2-683BF6549E46}|AuthExample.Application\\AuthExample.Application.csproj|solutionrelative:authexample.application\\data\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD80EB2A-0223-410C-80C2-683BF6549E46}|AuthExample.Application\\AuthExample.Application.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.application\\data\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD80EB2A-0223-410C-80C2-683BF6549E46}|AuthExample.Application\\AuthExample.Application.csproj|solutionrelative:authexample.application\\data\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB27CEA-AF00-440A-88A7-E02B7E56C8F7}|AuthExample.API\\AuthExample.API.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB27CEA-AF00-440A-88A7-E02B7E56C8F7}|AuthExample.API\\AuthExample.API.csproj|solutionrelative:authexample.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB27CEA-AF00-440A-88A7-E02B7E56C8F7}|AuthExample.API\\AuthExample.API.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9AB27CEA-AF00-440A-88A7-E02B7E56C8F7}|AuthExample.API\\AuthExample.API.csproj|solutionrelative:authexample.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB27CEA-AF00-440A-88A7-E02B7E56C8F7}|AuthExample.API\\AuthExample.API.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB27CEA-AF00-440A-88A7-E02B7E56C8F7}|AuthExample.API\\AuthExample.API.csproj|solutionrelative:authexample.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD80EB2A-0223-410C-80C2-683BF6549E46}|AuthExample.Application\\AuthExample.Application.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.application\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD80EB2A-0223-410C-80C2-683BF6549E46}|AuthExample.Application\\AuthExample.Application.csproj|solutionrelative:authexample.application\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB27CEA-AF00-440A-88A7-E02B7E56C8F7}|AuthExample.API\\AuthExample.API.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AB27CEA-AF00-440A-88A7-E02B7E56C8F7}|AuthExample.API\\AuthExample.API.csproj|solutionrelative:authexample.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB27CEA-AF00-440A-88A7-E02B7E56C8F7}|AuthExample.API\\AuthExample.API.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AB27CEA-AF00-440A-88A7-E02B7E56C8F7}|AuthExample.API\\AuthExample.API.csproj|solutionrelative:authexample.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.models\\authexample.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04E2D18C-E843-4B7C-BA16-91D3564ACDDE}|AuthExample.Models\\AuthExample.Core.csproj|solutionrelative:authexample.models\\authexample.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB27CEA-AF00-440A-88A7-E02B7E56C8F7}|AuthExample.API\\AuthExample.API.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.api\\docker-compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9AB27CEA-AF00-440A-88A7-E02B7E56C8F7}|AuthExample.API\\AuthExample.API.csproj|solutionrelative:authexample.api\\docker-compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB27CEA-AF00-440A-88A7-E02B7E56C8F7}|AuthExample.API\\AuthExample.API.csproj|c:\\users\\vapcbuild\\source\\repos\\authexample\\backend\\authexample.api\\authexample.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9AB27CEA-AF00-440A-88A7-E02B7E56C8F7}|AuthExample.API\\AuthExample.API.csproj|solutionrelative:authexample.api\\authexample.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidationResult.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Infastructure\\Errors\\ValidationResult.cs",
+              "RelativeDocumentMoniker": "AuthExample.Models\\Infastructure\\Errors\\ValidationResult.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Infastructure\\Errors\\ValidationResult.cs",
+              "RelativeToolTip": "AuthExample.Models\\Infastructure\\Errors\\ValidationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:54:48.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Infastructure\\Errors\\Validator.cs",
+              "RelativeDocumentMoniker": "AuthExample.Models\\Infastructure\\Errors\\Validator.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Infastructure\\Errors\\Validator.cs",
+              "RelativeToolTip": "AuthExample.Models\\Infastructure\\Errors\\Validator.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:49:32.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "AuthExample.Models\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Models\\UserModel.cs",
+              "RelativeToolTip": "AuthExample.Models\\Models\\UserModel.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA7wA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:23:01.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RefreshTokenConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Database\\Configurations\\RefreshTokenConfiguration.cs",
+              "RelativeDocumentMoniker": "AuthExample.Database\\Configurations\\RefreshTokenConfiguration.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Database\\Configurations\\RefreshTokenConfiguration.cs",
+              "RelativeToolTip": "AuthExample.Database\\Configurations\\RefreshTokenConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:11:42.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Database\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "AuthExample.Database\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Database\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "AuthExample.Database\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:50:04.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Database\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AuthExample.Database\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Database\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AuthExample.Database\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:06:23.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RefreshTokenEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Database\\Entities\\RefreshTokenEntity.cs",
+              "RelativeDocumentMoniker": "AuthExample.Database\\Entities\\RefreshTokenEntity.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Database\\Entities\\RefreshTokenEntity.cs",
+              "RelativeToolTip": "AuthExample.Database\\Entities\\RefreshTokenEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:01:54.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Database\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "AuthExample.Database\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Database\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "AuthExample.Database\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:51:02.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorObject.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Infastructure\\Errors\\ErrorObject.cs",
+              "RelativeDocumentMoniker": "AuthExample.Models\\Infastructure\\Errors\\ErrorObject.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Infastructure\\Errors\\ErrorObject.cs",
+              "RelativeToolTip": "AuthExample.Models\\Infastructure\\Errors\\ErrorObject.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:01:34.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorFactory.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Infastructure\\Errors\\ErrorFactory.cs",
+              "RelativeDocumentMoniker": "AuthExample.Models\\Infastructure\\Errors\\ErrorFactory.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Infastructure\\Errors\\ErrorFactory.cs",
+              "RelativeToolTip": "AuthExample.Models\\Infastructure\\Errors\\ErrorFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:02:23.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IValidator.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Interfaces\\IValidator.cs",
+              "RelativeDocumentMoniker": "AuthExample.Models\\Abstraction\\Interfaces\\IValidator.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Interfaces\\IValidator.cs",
+              "RelativeToolTip": "AuthExample.Models\\Abstraction\\Interfaces\\IValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:37:35.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "AuthExample.Models\\Abstraction\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "AuthExample.Models\\Abstraction\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:27:15.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Interfaces\\IUserResponse.cs",
+              "RelativeDocumentMoniker": "AuthExample.Models\\Abstraction\\Interfaces\\IUserResponse.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Interfaces\\IUserResponse.cs",
+              "RelativeToolTip": "AuthExample.Models\\Abstraction\\Interfaces\\IUserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T16:46:18.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Interfaces\\IUserDto.cs",
+              "RelativeDocumentMoniker": "AuthExample.Models\\Abstraction\\Interfaces\\IUserDto.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Interfaces\\IUserDto.cs",
+              "RelativeToolTip": "AuthExample.Models\\Abstraction\\Interfaces\\IUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:02:31.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Interfaces\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "AuthExample.Models\\Abstraction\\Interfaces\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Interfaces\\IPasswordHasher.cs",
+              "RelativeToolTip": "AuthExample.Models\\Abstraction\\Interfaces\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:38:05.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IErrorFactory.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Interfaces\\IErrorFactory.cs",
+              "RelativeDocumentMoniker": "AuthExample.Models\\Abstraction\\Interfaces\\IErrorFactory.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Interfaces\\IErrorFactory.cs",
+              "RelativeToolTip": "AuthExample.Models\\Abstraction\\Interfaces\\IErrorFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:35:04.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IErrorObject.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Interfaces\\IErrorObject.cs",
+              "RelativeDocumentMoniker": "AuthExample.Models\\Abstraction\\Interfaces\\IErrorObject.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Interfaces\\IErrorObject.cs",
+              "RelativeToolTip": "AuthExample.Models\\Abstraction\\Interfaces\\IErrorObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:48:36.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserConstEnum.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Enums\\UserConstEnum.cs",
+              "RelativeDocumentMoniker": "AuthExample.Models\\Abstraction\\Enums\\UserConstEnum.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Enums\\UserConstEnum.cs",
+              "RelativeToolTip": "AuthExample.Models\\Abstraction\\Enums\\UserConstEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:50:40.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RolesEnum.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Enums\\RolesEnum.cs",
+              "RelativeDocumentMoniker": "AuthExample.Models\\Abstraction\\Enums\\RolesEnum.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Enums\\RolesEnum.cs",
+              "RelativeToolTip": "AuthExample.Models\\Abstraction\\Enums\\RolesEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:04:01.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorNamesEnum.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Enums\\ErrorNamesEnum.cs",
+              "RelativeDocumentMoniker": "AuthExample.Models\\Abstraction\\Enums\\ErrorNamesEnum.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\Abstraction\\Enums\\ErrorNamesEnum.cs",
+              "RelativeToolTip": "AuthExample.Models\\Abstraction\\Enums\\ErrorNamesEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:11:21.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "AuthExample.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "AuthExample.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:46:27.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Application\\Data\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "AuthExample.Application\\Data\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Application\\Data\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "AuthExample.Application\\Data\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:18:16.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Application\\Data\\UserResponse.cs",
+              "RelativeDocumentMoniker": "AuthExample.Application\\Data\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Application\\Data\\UserResponse.cs",
+              "RelativeToolTip": "AuthExample.Application\\Data\\UserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T16:42:01.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.API\\Program.cs",
+              "RelativeDocumentMoniker": "AuthExample.API\\Program.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.API\\Program.cs",
+              "RelativeToolTip": "AuthExample.API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:22:49.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.API\\Dockerfile",
+              "RelativeDocumentMoniker": "AuthExample.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.API\\Dockerfile",
+              "RelativeToolTip": "AuthExample.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-26T17:31:05.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AuthExample.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AuthExample.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:23:58.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Application\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "AuthExample.Application\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Application\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "AuthExample.Application\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:36:53.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.API\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthExample.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.API\\appsettings.json",
+              "RelativeToolTip": "AuthExample.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T20:14:12.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AuthExample.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.API\\appsettings.Development.json",
+              "RelativeToolTip": "AuthExample.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T20:25:30.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthExample.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\AuthExample.Core.csproj",
+              "RelativeDocumentMoniker": "AuthExample.Models\\AuthExample.Core.csproj",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.Models\\AuthExample.Core.csproj",
+              "RelativeToolTip": "AuthExample.Models\\AuthExample.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T18:22:53.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthExample.API.csproj",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.API\\AuthExample.API.csproj",
+              "RelativeDocumentMoniker": "AuthExample.API\\AuthExample.API.csproj",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.API\\AuthExample.API.csproj",
+              "RelativeToolTip": "AuthExample.API\\AuthExample.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T20:22:11.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "docker-compose.yaml",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.API\\docker-compose.yaml",
+              "RelativeDocumentMoniker": "AuthExample.API\\docker-compose.yaml",
+              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\AuthExample\\backend\\AuthExample.API\\docker-compose.yaml",
+              "RelativeToolTip": "AuthExample.API\\docker-compose.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-26T20:24:48.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
